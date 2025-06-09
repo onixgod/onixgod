@@ -11,12 +11,11 @@ To demonstrate my progression from IT infrastructure professional to SOC Analyst
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
+| Network Traffic Monitoring and Attack Detection |<a href="">Link</a>|
+| Security Automation with Shuffle SOAR         | <a href="">Link</a>|
+| Incident Response Planning and Execution      | <a href="">Link</a>|
+| Case Management with TheHive                  | <a href="">Link</a>|
+| Scripting and Automation for Threat Mitigation | <a href="">Link</a>|
 
 ### Network
 <div>
