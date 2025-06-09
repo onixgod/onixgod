@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there, I'm Jhon 👋
+<a href="https://linkedin.com/in/jhon-quinones/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <!--
 **onixgod/onixgod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
