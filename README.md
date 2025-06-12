@@ -10,12 +10,13 @@ To demonstrate my progression from IT infrastructure professional to SOC Analyst
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection |<a href="">Link</a>|
-| Security Automation with Shuffle SOAR         | <a href="">Link</a>|
-| Incident Response Planning and Execution      | <a href="">Link</a>|
-| Case Management with TheHive                  | <a href="">Link</a>|
-| Scripting and Automation for Threat Mitigation | <a href="">Link</a>|
+| SIEM Implementation and Log Analysis          | <a hreff="">Link</a>|
+| Network Traffic Monitoring and Attack Detection |<a hreff="">Link</a>|
+| Security Notifiction with Slack               | <a href="https://github.com/onixgod/Active-Directory-Shuffler-and-Slack-Integration">Active Directory, Splunk, Shuffle and Slack Integration</a>|   
+| Security Automation with Shuffle SOAR         | <a href="https://github.com/onixgod/Active-Directory-Shuffler-and-Slack-Integration">Active Directory, Splunk, Shuffle and Slack Integration</a>|
+| Incident Response Planning and Execution      | <a hreff="">Link</a>|
+| Case Management with TheHive                  | <a hreff="">Link</a>|
+| Scripting and Automation for Threat Mitigation | <a hreff="">Link</a>|
 
 ### Network
 <div>
@@ -36,17 +37,8 @@ To demonstrate my progression from IT infrastructure professional to SOC Analyst
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-<!--
-**onixgod/onixgod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- <a href="https://github.com/onixgod/Active-Directory-Shuffler-and-Slack-Integration">Active Directory, Splunk, Shuffle and Slack Integration (GitHub)</a>
+- <a href="https://medium.com/@onixgodeh/active-directory-shuffler-and-slack-integration-0fe8b91c833b">Active Directory, Splunk, Shuffle and Slack Integration (Medium)</a>
+## Writeup 
+- <a href="https://github.com/onixgod/Active-Directory-Shuffler-and-Slack-Integration](https://medium.com/@onixgodeh/soc335-event-id-313-cve-2024-49138-exploitation-detected-lest-defend-writeup-e7366ca2c63e)">SOC335 — Event ID: 313 — CVE-2024–49138 Exploitation Detected -Lest Defend Writeup</a>
