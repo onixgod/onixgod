@@ -40,5 +40,5 @@ To demonstrate my progression from IT infrastructure professional to SOC Analyst
 ## Projects
 - <a href="https://github.com/onixgod/Active-Directory-Shuffler-and-Slack-Integration">Active Directory, Splunk, Shuffle and Slack Integration (GitHub)</a>
 - <a href="https://medium.com/@onixgodeh/active-directory-shuffler-and-slack-integration-0fe8b91c833b">Active Directory, Splunk, Shuffle and Slack Integration (Medium)</a>
-## Writeup 
+## Writeups
 - <a href="https://github.com/onixgod/Active-Directory-Shuffler-and-Slack-Integration](https://medium.com/@onixgodeh/soc335-event-id-313-cve-2024-49138-exploitation-detected-lest-defend-writeup-e7366ca2c63e)">SOC335 — Event ID: 313 — CVE-2024–49138 Exploitation Detected -Lest Defend Writeup</a>
