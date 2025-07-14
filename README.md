@@ -17,6 +17,7 @@ To demonstrate my progression from IT infrastructure professional to SOC Analyst
 | Incident Response Planning and Execution      | <a hreff="">Link</a>|
 | Case Management with TheHive                  | <a href="https://github.com/onixgod/SOC-Automation-Project">SOC Automation Project (Wazuh, TheHive & Shuffle)</a>|
 | Scripting and Automation for Threat Mitigation | <a hreff="">Link</a>|
+| Red Teaming Simuation (Phishing) | <a href="https://github.com/onixgod/Phishing-Attack-Simulation">Phishing Attack Simulation Lab with Gophish & Poste.io</a>|
 
 ### Network
 <div>
@@ -35,11 +36,13 @@ To demonstrate my progression from IT infrastructure professional to SOC Analyst
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white" />
 </div>
 
 ## Projects
 - <a href="https://github.com/onixgod/Active-Directory-Shuffler-and-Slack-Integration">Active Directory, Splunk, Shuffle and Slack Integration (GitHub)</a>
 - <a href="https://medium.com/@onixgodeh/active-directory-shuffler-and-slack-integration-0fe8b91c833b">Active Directory, Splunk, Shuffle and Slack Integration (Medium)</a>
 - <a href="https://github.com/onixgod/SOC-Automation-Project">SOC Automation Project (Wazuh, TheHive & Shuffle) (GitHub)</a>
+- <a href="https://github.com/onixgod/Phishing-Attack-Simulation">Phishing Attack Simulation Lab with Gophish & Poste.io</a>
 ## Writeups
 - <a href="https://github.com/onixgod/Active-Directory-Shuffler-and-Slack-Integration](https://medium.com/@onixgodeh/soc335-event-id-313-cve-2024-49138-exploitation-detected-lest-defend-writeup-e7366ca2c63e)">SOC335 — Event ID: 313 — CVE-2024–49138 Exploitation Detected -Lest Defend Writeup</a>
